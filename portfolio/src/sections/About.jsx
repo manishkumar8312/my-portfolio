@@ -67,7 +67,7 @@ const About = () => {
                       className="w-32 h-32 sm:w-40 sm:h-40 md:w-44 md:h-44 mx-auto mb-6 rounded-full border-4 border-white/20 shadow-xl overflow-hidden bg-gray-800/50"
                     >
                       <img 
-                        src="/src/assets/images/profile2.jpg" 
+                        src="/public/assets/images/profile2.jpg" 
                         alt="Manish Kumar Sah" 
                         className="w-full h-full object-cover"
                         loading="lazy"

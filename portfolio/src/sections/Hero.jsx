@@ -127,7 +127,7 @@ const Hero = () => {
             <div className="absolute inset-0 bg-gradient-to-br from-primary to-secondary rounded-full p-1 animate-spin-slow">
               <div className="w-full h-full rounded-full overflow-hidden border-4 border-dark/20">
                 <img 
-                  src="/src/assets/images/profile.jpg" 
+                  src="/public/assets/images/profile.jpg" 
                   alt="Manish Kumar Sah" 
                   className="w-full h-full object-cover"
                 />
@@ -172,7 +172,7 @@ const Hero = () => {
             >
               <div className="w-full h-full bg-gradient-to-br from-green-500/10 to-emerald-500/10 rounded-full flex items-center justify-center">
                 <img 
-                  src="/assets/icons/nodejs.svg" 
+                  src="/public/assets/icons/node.svg" 
                   alt="Node.js" 
                   className="w-8 h-8" 
                 />
