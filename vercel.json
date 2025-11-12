@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "buildCommand": "cd portfolio && npm run build",
+  "outputDirectory": "portfolio/dist",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/portfolio/index.html"
+    }
+  ]
+}

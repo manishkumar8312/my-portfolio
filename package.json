@@ -1,0 +1,17 @@
+{
+  "name": "my-portfolio",
+  "private": true,
+  "workspaces": ["portfolio"],
+  "scripts": {
+    "dev": "cd portfolio && npm run dev",
+    "build": "cd portfolio && npm run build",
+    "preview": "cd portfolio && npm run preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.16",
+    "tailwindcss": "^4.1.16"
+  },
+  "overrides": {
+    "three": "0.181.0"
+  }
+}
