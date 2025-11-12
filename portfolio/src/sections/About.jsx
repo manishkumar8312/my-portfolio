@@ -67,7 +67,7 @@ const About = () => {
                       className="w-32 h-32 sm:w-40 sm:h-40 md:w-44 md:h-44 mx-auto mb-6 rounded-full border-4 border-white/20 shadow-xl overflow-hidden bg-gray-800/50"
                     >
                       <img 
-                        src="/public/assets/images/profile2.jpg" 
+                        src="/assets/images/profile2.jpg" 
                         alt="Manish Kumar Sah" 
                         className="w-full h-full object-cover"
                         loading="lazy"
@@ -174,7 +174,7 @@ const About = () => {
               {/* Action Buttons */}
               <div className="flex flex-wrap gap-3 sm:gap-4 pt-4">
                 <motion.a
-                  href="/src/assets/resume/Manish_Resume.pdf"
+                  href="/assets/resume/Manish_Resume.pdf"
                   download="Resume.pdf"
                   className="flex-1 sm:flex-none px-6 py-2.5 sm:px-7 sm:py-3 bg-gradient-to-r from-blue-500 to-purple-500 text-white text-sm sm:text-base font-medium rounded-lg hover:opacity-90 transition-all hover:-translate-y-0.5 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500/50 flex items-center justify-center gap-2"
                   whileHover={{ scale: 1.02 }}

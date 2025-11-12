@@ -150,7 +150,7 @@ const Experience = () => {
             className="mt-12 text-center"
           >
             <motion.a
-              href="/src/assets/resume/Manish_Resume.pdf"
+              href="/assets/resume/Manish_Resume.pdf"
               download="Resume.pdf"
               className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-blue-500 to-purple-500 text-white font-medium rounded-lg hover:shadow-lg hover:shadow-blue-500/30 transition-all duration-300 group"
               whileHover={{ 
