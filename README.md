@@ -138,9 +138,9 @@ This project is licensed under the MIT License.
 ---
 
 ## Author
-
-**Manish Kumar Sah**
+```
+Manish Kumar Sah
 Frontend Developer | Software Development Enthusiast
+```
 Portfolio Link: https://my-portfolio-five-ochre-75.vercel.app/
-
 
