@@ -141,6 +141,6 @@ This project is licensed under the MIT License.
 
 **Manish Kumar Sah**
 Frontend Developer | Software Development Enthusiast
-Portfolio Link: *Add your deployed link here*
+Portfolio Link: 
 
 
