@@ -89,7 +89,7 @@ portfolio/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-portfolio.git
+git clone https://github.com/manishkumar8312/my-portfolio.git
 ````
 
 Install dependencies:
