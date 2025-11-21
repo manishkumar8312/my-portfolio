@@ -1,9 +1,7 @@
-
 # React Portfolio Website
 
-A fully responsive personal portfolio website built with React.js.  
-This project focuses on clean architecture, reusable components, and modern frontend development practices.  
-It serves as a central place to showcase my work, experience, and skill set.
+A fully responsive and modern personal portfolio website built with React.js.  
+This project follows clean architecture principles, encourages component reusability, and demonstrates best practices in frontend development. It serves as a central place to showcase my work, experience, and skills.
 
 ---
 
@@ -19,14 +17,14 @@ It serves as a central place to showcase my work, experience, and skill set.
 
 ## Tech Stack
 
-**Core Technologies**
+### Core Technologies
 - React.js  
 - JavaScript (ES6+)  
 - React Router  
-- CSS / SCSS / Tailwind (based on implementation)  
-- Framer Motion (if animations are used)
+- CSS / SCSS / Tailwind  
+- Framer Motion (optional animations)
 
-**Development & Deployment Tools**
+### Development & Deployment Tools
 - Git & GitHub  
 - VS Code  
 - Netlify / Vercel / GitHub Pages  
@@ -34,9 +32,7 @@ It serves as a central place to showcase my work, experience, and skill set.
 ---
 
 ## Project Structure
-
 ```
-
 portfolio/
 ├── public/
 │   ├── index.html
@@ -60,25 +56,29 @@ portfolio/
 │   ├── index.js
 ├── package.json
 └── README.md
+
 ```
 
-**Highlights:**
-- Component-driven structure for scalability  
-- Separation of pages and components  
-- Reusable UI elements (cards, sections, layouts)  
-- Configurable data through JSON/constants  
-- Clean routing using React Router  
+---
+
+## Highlights
+
+- Scalable and component-driven architecture  
+- Clear separation of pages and reusable UI components  
+- Easily configurable project and skill data  
+- Smooth and clean routing using React Router  
+- Optimized folder structure for maintainability  
 
 ---
 
 ## Features
 
 - Fully responsive layout  
-- Clean and modern design  
-- Modular and reusable components  
-- Animated sections and transitions  
-- Project showcase with live links  
-- Experience, skills, and achievements section  
+- Clean and modern UI design  
+- Reusable and modular components  
+- Smooth animations and section transitions  
+- Project showcase with live links and GitHub repositories  
+- Skills, experience, and achievements sections  
 - Contact form integration  
 - Resume download support  
 
@@ -114,20 +114,20 @@ npm run build
 
 ## Deployment
 
-This project can be deployed on:
+This portfolio can be deployed on:
 
 * Vercel
 * Netlify
 * GitHub Pages
 
-You can customize `homepage` in `package.json` if using GitHub Pages.
+If deploying on GitHub Pages, configure the `homepage` field in `package.json`.
 
 ---
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome.
-Please open a pull request or file an issue for discussion.
+Contributions, feature requests, and issues are welcome.
+Please open a pull request or start a discussion through issues.
 
 ---
 
@@ -138,10 +138,8 @@ This project is licensed under the MIT License.
 ---
 
 ## Author
-```
-Manish Kumar Sah
+
+**Manish Kumar Sah**
 Frontend Developer | Software Development Enthusiast
-```
-[Portfolio](https://my-portfolio-five-ochre-75.vercel.app/)
 
-
+Portfolio: [https://my-portfolio-five-ochre-75.vercel.app/](https://my-portfolio-five-ochre-75.vercel.app/)
