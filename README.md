@@ -3,6 +3,7 @@
 A fully responsive and modern personal portfolio website built with React.js.  
 This project follows clean architecture principles, encourages component reusability, and demonstrates best practices in frontend development. It serves as a central place to showcase my work, experience, and skills.
 
+
 ---
 
 ## Badges
