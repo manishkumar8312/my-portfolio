@@ -141,6 +141,6 @@ This project is licensed under the MIT License.
 ## Author
 
 **Manish Kumar Sah**
-Frontend Developer | Software Development Enthusiast
+Software Development Enthusiast
 
 Portfolio: [https://my-portfolio-five-ochre-75.vercel.app/](https://my-portfolio-five-ochre-75.vercel.app/)
