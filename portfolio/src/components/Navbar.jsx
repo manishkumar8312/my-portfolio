@@ -50,7 +50,7 @@ const Navbar = () => {
           <div className="flex items-center justify-between w-full md:w-auto">
             <a href="#" className="flex items-center">
               <img 
-                src="/public/assets/icons/logo.png" 
+                src="/assets/icons/logo.png" 
                 alt="Manish Kumar Sah" 
                 className="h-8 w-auto md:h-10"
               />
