@@ -12,15 +12,6 @@ const experiences = [
     color: 'from-blue-500 to-cyan-500'
   },
   {
-    type: 'education',
-    title: 'B.Tech in Computer Science',
-    company: 'Lovely Professional University',
-    date: '2023 - Present',
-    description: 'Pursuing my degree in Computer Science and Engineering with a focus on software development and artificial intelligence.',
-    icon: <FaGraduationCap className="text-white" />,
-    color: 'from-purple-500 to-pink-500'
-  },
-  {
     type: 'work',
     title: 'Campus Mantri',
     company: 'GeeksforGeeks',
@@ -30,13 +21,22 @@ const experiences = [
     color: 'from-green-500 to-emerald-500'
   },
   {
-    type: 'education',
-    title: 'High School',
-    company: 'Regional Secondary School',
-    date: '2020 - 2022',
-    description: 'Completed my high school education with a focus on Physics, Chemistry, and Mathematics.',
+    type: 'Maths Olympiad Experie',
+    title: 'Kshitij Maths Olympiad',
+    company: 'IIT Kharagpur',
+    date: '2023',
+    description: 'Participated in the Kshitij Mathematics Olympiad organized by IIT Kharagpur, solving high-level mathematical problems involving calculus, probability, number theory, and logical reasoning. The competition strengthened my analytical thinking, time-bound decision-making, and ability to approach complex problems with structured methods.',
     icon: <FaGraduationCap className="text-white" />,
     color: 'from-amber-500 to-orange-500'
+  },
+  {
+    type: 'Summer Trainee',
+    title: 'Summer Trainee',
+    company: 'CipherSchools',
+    date: '2025',
+    description: 'Completed a Summer Training Program at CipherSchools focused on the MERN Stack, gaining practical experience in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. Worked on real-world projects, enhanced problem-solving skills, and strengthened understanding of modern web development workflows.',
+    icon: <FaGraduationCap className="text-white" />,
+    color: 'from-purple-500 to-pink-500'
   },
 ];
 

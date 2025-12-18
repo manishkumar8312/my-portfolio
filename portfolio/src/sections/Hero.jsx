@@ -150,7 +150,7 @@ const Hero = () => {
             >
               <div className="w-full h-full bg-gradient-to-br from-blue-500/10 to-cyan-500/10 rounded-full flex items-center justify-center">
                 <img 
-                  src="/assets/icons/react.svg" 
+                  src="/assets/icons/react.png" 
                   alt="React" 
                   className="w-10 h-10" 
                 />

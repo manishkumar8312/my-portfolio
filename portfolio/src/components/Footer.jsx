@@ -13,7 +13,7 @@ const Footer = () => {
     <footer className="relative bg-gradient-to-b from-[#0a0a0a] to-[#111] border-t border-gray-800 py-10">
       <div className="container mx-auto px-6 text-center md:text-left">
         {/* Social Icons */}
-        <div className="flex justify-center md:justify-end space-x-8 mb-6">
+        {/* <div className="flex justify-center md:justify-end space-x-8 mb-6">
           {socialLinks.map((social, index) => (
             <a
               key={index}
@@ -26,7 +26,7 @@ const Footer = () => {
               {social.icon}
             </a>
           ))}
-        </div>
+        </div> */}
 
         {/* Divider */}
         <div className="border-t border-gray-700 w-3/4 mx-auto mb-6 opacity-50" />

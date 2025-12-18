@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "npx vite build",
-    "preview": "vite preview",
-    "postinstall": "chmod +x node_modules/.bin/vite"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@react-three/drei": "^9.0.0",
