@@ -20,11 +20,27 @@ const projects = [
   },
   {
     title: 'Algorithm Visualizer',
-    description: 'An interactive web application that visualizes various sorting and pathfinding algorithms. Helps in understanding how different algorithms work with step-by-step visualization and comparisons.',
+    description: 'It is an interactive algorithm visualizer to demonstrate the working of various sorting and pathfinding algorithms. It provides visual animations that show how algorithms process data and explore paths, allowing users to compare their behavior and performance in real time. The application focuses on making complex algorithmic concepts easy to understand.',
     tags: ['JavaScript', 'React', 'TailWind CSS', 'Algorithms'],
     github: 'https://github.com/manishkumar8312/AlgorithmVizualizer',
     demo: 'https://algorithm-vizualizer-chi.vercel.app/',
     image: '/projects/AlgorithmVisualizer.jpg'
+  },
+  {
+    title: 'Terminal Portfolio',
+    description: 'A CLI-inspired portfolio built for developers, allowing users to explore my work, skills, and contact info using terminal commands.',
+    tags: ['JavaScript', 'React', 'TailWind CSS'],
+    github: 'https://github.com/manishkumar8312/terminal-portfolio',
+    demo: 'https://manish-terminal-portfolio.vercel.app/',
+    image: '/projects/Terminal.jpeg'
+  },
+  {
+    title: 'Evolution',
+    description: 'EV-olution is a platform focused on promoting electric vehicle awareness by showcasing EV benefits, trends, and future mobility solutions.',
+    tags: ['JavaScript', 'React', 'UI/UX'],
+    github: 'https://github.com/manishkumar8312/EV-olution',
+    demo: 'https://ev-olution-nu.vercel.app/',
+    image: '/projects/Evolution.png'
   },
 ];
 
